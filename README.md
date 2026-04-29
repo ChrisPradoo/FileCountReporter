@@ -32,8 +32,16 @@ File Count Reporter is a Windows Forms application that analyzes a directory on 
 4. Run the application using **Start Debugging** or **Start Without Debugging**.
 
 ## Screenshots
-Add screenshots of your application below.
+- Main Interface 
+<img width="693" height="376" alt="image" src="https://github.com/user-attachments/assets/a7a644e8-7b7f-4790-b0f6-f73e48a6a25f" />
 
+##
+- Selecting Files
+<img width="933" height="524" alt="image" src="https://github.com/user-attachments/assets/8d62c22f-39a0-4da1-a498-fd86467534f7" />
+
+##
+- Results
+<img width="692" height="374" alt="image" src="https://github.com/user-attachments/assets/7d35f104-1ecc-4d75-b286-81dd60e4240f" />
 
 ## Repository Structure
 - `Form1.cs` – Main Windows Forms logic and event handlers  
