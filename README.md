@@ -1,7 +1,7 @@
 # File Count Reporter
 
 ## Overview
-File Count Reporter is a Windows Forms application that analyzes a directory on the user's system and reports file and folder statistics. The application supports both basic directory scanning and full recursive scanning through all nested subdirectories. This project was created as part of the Week 5 lab assignment for CPW 155 (.NET Programming).
+File Count Reporter is a Windows Forms application that analyzes a directory on the user's system and reports file and folder statistics. The application supports both basic directory scanning and full recursive scanning through all nested subdirectories.
 
 ## Features
 
